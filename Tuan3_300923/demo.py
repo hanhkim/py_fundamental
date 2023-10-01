@@ -1,0 +1,1 @@
+# sử dụng break, continue, else trong vòng lặp while
